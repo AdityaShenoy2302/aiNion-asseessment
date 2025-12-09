@@ -2,7 +2,7 @@
 
 ## Project Overview: Three-Tier AI Orchestration System
 
-This project is a simplified, standalone implementation of Nion's three-tier AI orchestration system designed for **project management**. Its core function is to analyze incoming communication (like emails or meeting transcripts), extract critical information (action items, risks, issues, decisions), and coordinate an appropriate, context-aware response using a hierarchical structure of AI agents.
+This project is a simplified, standalone implementation of Nion's three-tier AI orchestration system designed for **project management**. Its core function is to analyze incoming communication (like emails or meeting transcripts), extract critical information (action items, risks, issues, decisions), and coordinate an appropriate, context-aware response using a hierarchical structure of agents.
 
 The system's architecture is a key feature, ensuring a clear **separation of concerns** and efficient delegation of tasks.
 
